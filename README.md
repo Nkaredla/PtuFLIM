@@ -297,3 +297,5 @@ Cell segmentation + FLIM pipeline:
 Third-party code: PTU_ScanRead.py includes components derived from
 SumeetRohilla/readPTU_FLIM, licensed under the MIT License.
 
+MIT License
+Copyright (c) 2025 Narain Karedla
