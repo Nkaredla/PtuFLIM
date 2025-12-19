@@ -2,7 +2,11 @@
 """
 Created on Fri Aug 23 16:46:33 2024
 
-@author: narai
+@author: narain karedla
+
+# Portions of this file are derived from SumeetRohilla/readPTU_FLIM (MIT License).
+# See LICENSES/readPTU_FLIM-MIT.txt (or the root LICENSE if this project is MIT-licensed).
+
 """
 import struct
 # import datetime
